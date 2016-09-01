@@ -1,9 +1,9 @@
 ---
-Title: Avoid SELECT
+Title: MySQL datatype to store an IP address
 Tip-number: 4
 Tip-username: Vijayanand
 Tip-username-profile: https://github.com/vpvijayanand
-Tip-description: MySQL datatype use for store an IP address
+Tip-description: MySQL datatype to store an IP address
 ---
 
 To store IP address in mysql database then don’t make a mistake of using varchar datatype because you can use INT UNSIGNED 4(BYTE) datatype. 
