@@ -2,6 +2,7 @@
 
 
 ##List of Tips
+- 04 - [MySQL datatype to store an IP address] (https://github.com/vpvijayanand/MySQL-Tips/blob/master/MySQL%20datatype%20to%20store%20an%20IP%20address.md)
 - 03 - [Use ENUM over VARCHAR] (https://github.com/vpvijayanand/MySQL-Tips/blob/master/Use%20ENUM%20over%20VARCHAR.md)
 - 02 - [Avoid SELECT *](https://github.com/vpvijayanand/MySQL-Tips/blob/master/Avoid%20SELECT%20*.md)
 - 01 - [Import CSV File Into MySQL Table](https://github.com/vpvijayanand/MySQL-Tips/blob/master/How%20to%20Import%20CSV%20File%20Into%20MySQL%20Table.md)
